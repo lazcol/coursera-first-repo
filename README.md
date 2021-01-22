@@ -1,28 +1,44 @@
-# This is a large heading
+# Diego Lazcano
 
-## This is a smaller heading
+## Ingeniero Electrónico
+#### Por la Facultad de Ingeniería del Ejército
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+## Licenciado en Administración
+#### Por el Instiituto Universitario del Ejército
 
-- This is
-- an unordered
-- list
+## Docente
+### Facultad de Ingeniería del Ejército
+- **Control Avanzado II** - JTP
+- **Física I** - JTP
+- **Física II** - JTP
+- **Algebra y Geometría Analítica** - JTP
 
-1. This is
-2. an ordered
-3. list
+### Universidad Católica Argentina
+- **Control Industrial** - JTP
+- **Electrónica Industrial** - JTP
+- **Electrónica I** - JTP
+- **Microcontroladores I** - JTP
+- **Microcontroladores II** - JTP
+- **Herramientas Informáticas aplicadas a la Electrónica** - Tit
+- **Máquinas y Motores Eléctricos** - Tit
 
-Here is `some code` in the middle of a sentence.
+### Universidad del Comercio Exterior y Mercadotecnia Argentina
+- **Física I** - JTP
+- **Física II** - JTP
+- **Análisis Matemático II** - JTP
+- **Análisis Matemático III** - JTP
+- **Técnicas Digitales** - JTP
 
-```
-This is
-a block
-of code
-```
+### Universidad de Belgrano
+- **Física IV** - Tit
 
-Here is how you make [a link](https://www.wikipedia.org/).
+## Interés
+1. Control analógico y digital
 
-![This is an image.](https://i.imgur.com/48uur3D.gif)
+
+## Contacto
+1. email: lazcol@gmail.com
+2. movil: +541138998090
+3. instagram: lazcol777
+4. Twitter: lazcol
+
